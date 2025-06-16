@@ -8,9 +8,9 @@ metadata:
     - java
     - maven
   annotations:
-    # github.com/project-slug: dean-chin-altimetrik/test-3
-    # backstage.io/source-location: url:https://github.com/dean-chin-altimetrik/test-3
-    backstage.io/techdocs-ref: "dir: ."
+    github.com/project-slug: dean-chin-altimetrik/test-3
+    backstage.io/source-location: url:https://github.com/dean-chin-altimetrik/test-3
+    backstage.io/techdocs-ref: dir:.
     devbox.io/enabled: "true"
 spec:
   type: service
